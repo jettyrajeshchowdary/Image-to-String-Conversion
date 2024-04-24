@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: azure;
+}
+.maindiv{
+    text-align: center;
+    height: 100vh;
+    margin-top: 30vh;
+}
+h2 {
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(17, 17, 172);
+    font-family: sans-serif;
+}
